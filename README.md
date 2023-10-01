@@ -1,1 +1,98 @@
-# Mern_full_stack_bs_js
+<!DOCTYPE html>
+<html lang="en">
+  <head></head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MernFullStack Tasks</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+    table,
+    tr,
+    td,
+    th {
+      border: 1px solid black;
+      border-collapse: collapse;
+      width: 500px;
+      text-align: center;
+    }
+    table {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+
+  <body>
+    <h1>Bootstrap Tasks</h1>
+    <table>
+      <tr>
+        <th>TaskName</th>
+        <th>Task Link</th>
+      </tr>
+      <tr>
+        <td>Task 1</td>
+        <td><a href="Task 1.html">task1 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 2</td>
+        <td><a href="Task 2.html">task2 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 3</td>
+        <td><a href="Task 3.html">task3 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 4</td>
+        <td><a href="Task 4.html">task4 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 5</td>
+        <td><a href="Task 5.html">task5 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 6</td>
+        <td><a href="Task 6.html">task6 link</a></td>
+      </tr>
+    </table>
+    <h1>JavaScript Tasks</h1>
+    <table>
+      <tr>
+        <th>TaskName</th>
+        <th>Task Link</th>
+      </tr>
+      <tr>
+        <td>Task 1</td>
+        <td><a href=" JS Task 1.html">task1 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 2</td>
+        <td><a href="JS Task 2.html">task2 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 3</td>
+        <td><a href="JS Task 3.html">task3 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 4</td>
+        <td><a href="JS Task 4.html">task4 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 5</td>
+        <td><a href="JS Task 5.html">task5 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 6</td>
+        <td><a href="JS Task 6.html">task6 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 7</td>
+        <td><a href="JS Task 7.html">task7 link</a></td>
+      </tr>
+      <tr>
+        <td>Task 8</td>
+        <td><a href="JS Task 8.html">task8 link</a></td>
+      </tr>
+    </table>
+  </body>
+</html>
